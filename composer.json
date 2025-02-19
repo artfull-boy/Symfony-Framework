@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/http-foundation": "^7.2",
+        "symfony/routing": "^7.2",
+        "symfony/http-kernel": "^7.2",
+        "symfony/event-dispatcher": "^7.2"
+    },
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
+}
